@@ -1,0 +1,153 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TheRideYourRent
+build_property.RootNamespace = TheRideYourRent
+build_property.ProjectDir = C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\TheRideYourRent\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\TheRideYourRent
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Car/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Car/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Car/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Car/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Car/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Driver/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Driver/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Driver/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Driver/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Driver/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/HomeController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUNvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/InspectorRegisters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yUmVnaXN0ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/InspectorRegisters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yUmVnaXN0ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/InspectorRegisters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yUmVnaXN0ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/InspectorRegisters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yUmVnaXN0ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/InspectorRegisters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yUmVnaXN0ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Inspector/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Inspector/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Inspector/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Inspector/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Inspector/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Rental/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Rental/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Rental/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Return/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Return/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Return/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ditesh/OneDrive - ADvTECH Ltd/Documents/Visual Studio 2022/TheRideYourRent/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jtsn9wqveg

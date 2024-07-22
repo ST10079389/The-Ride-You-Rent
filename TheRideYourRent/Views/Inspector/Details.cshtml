@@ -1,0 +1,43 @@
+﻿@model TheRideYourRent.Models.Inspector
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div>
+    <h4>Inspector Details</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Inspector Number:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InspectorNo)
+        </dd>
+        <dt class="col-sm-2">
+            Name:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            Email:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-2">
+            Mobile:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Mobile)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.InspectorId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+

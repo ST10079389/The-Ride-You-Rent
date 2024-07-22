@@ -1,0 +1,60 @@
+﻿@model TheRideYourRent.Models.Rental
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Rental</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CarNo" class="control-label">Car Number</label>
+                <select asp-for="CarNo" class="form-control" asp-items="ViewBag.CarNo"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="InspectorNo" class="control-label">Inspector</label>
+                <select asp-for="InspectorNo" class="form-control" asp-items="ViewBag.InspectorNo"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DriverId" class="control-label">Driver</label>
+                <select asp-for="DriverId" class="form-control" asp-items="ViewBag.DriverId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="RentalFee" class="control-label">Rental Fee</label>
+                <input asp-for="RentalFee" class="form-control" type="text" />
+                <span asp-validation-for="RentalFee" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StartDate" class="control-label">Start Date</label>
+                <input asp-for="StartDate" class="form-control" type="date" />
+                <span asp-validation-for="StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndDate" class="control-label">End Date</label>
+                <input asp-for="EndDate" class="form-control" type="date" />
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MakeId" class="control-label">Car Make</label>
+                <select asp-for="MakeId" class="form-control" asp-items="ViewBag.MakeId"></select>
+            </div>
+            <br/>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

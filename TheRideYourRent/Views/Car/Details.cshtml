@@ -1,0 +1,35 @@
+﻿@model TheRideYourRent.Models.Car
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Car</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Car Number: </dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.CarNo)</dd>
+        <dt class="col-sm-2">Car Make: </dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Make.Description)</dd>
+        <dt class="col-sm-2">Model: </dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Model)</dd>
+        <dt class="col-sm-2">Kilometres Travelled: </dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.KilometresTravelled)</dd>
+        <dt class="col-sm-2">Service Kilometres</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.ServiceKilometres)</dd>
+        <dt class="col-sm-2">Available: </dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Available)</dd>
+        <dt class="col-sm-2">Body Type: </dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.BodyType.Description)</dd>
+        <dt class="col-sm-2">Car Make: </dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Make.Description)</dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.CarId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,58 @@
+﻿@model TheRideYourRent.Models.Return
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div>
+    <h4>Return</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Car Number:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CarNoNavigation.CarNo)
+        </dd>
+        <dt class="col-sm-2">
+            Inspector:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InspectorNoNavigation.Name)
+        </dd>
+        <dt class="col-sm-2">
+            Driver:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Driver.Name)
+        </dd>
+        <dt class="col-sm-2">
+            Return Date:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ReturnDate)
+        </dd>
+        <dt class="col-sm-2">
+            Elapsed Date:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ElapsedDate)
+        </dd>
+        <dt class="col-sm-2">
+            Fine:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Fine)
+        </dd>
+        <dt class="col-sm-2">
+            Make:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Make.Description)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

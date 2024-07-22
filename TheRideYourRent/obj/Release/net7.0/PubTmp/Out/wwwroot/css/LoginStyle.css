@@ -1,0 +1,9 @@
+﻿/* LoginStyle.css */
+.navbar {
+    display: none;
+}
+
+h1:first-of-type {
+    text-align: center;
+    margin-top: 100px; /* Optional: Add some top margin to center the heading vertically */
+}
